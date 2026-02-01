@@ -25,3 +25,4 @@ A passionate full stack developer
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat-square&logo=swagger&logoColor=white)
